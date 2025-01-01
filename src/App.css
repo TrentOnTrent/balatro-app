@@ -6,7 +6,7 @@
 }
 
 .App li {
-  display: inline;
+  display:inline-block;
 }
 
 .App-logo {
